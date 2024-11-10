@@ -5,7 +5,7 @@
     <NoWarn>$(NoWarn);NU1507</NoWarn>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="Abp" Version="5.1.0" />
-    <PackageVersion Include="Microsoft.Extensions.Http" Version="8.0.1" />
+    <PackageVersion Include="Abp" Version="9.4.2" />
+    <PackageVersion Include="Microsoft.Extensions.Http" Version="9.0.0-rc.2.24473.5" />
   </ItemGroup>
 </Project>
